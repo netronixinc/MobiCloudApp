@@ -1,3 +1,7 @@
+/**
+ * Routing and navigation
+ */
+
 import * as React from 'react';
 import {Button, StyleSheet, Text, View} from 'react-native';
 import {NavigationContainer} from '@react-navigation/native';
